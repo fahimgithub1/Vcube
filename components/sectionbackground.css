@@ -1,0 +1,35 @@
+.section_bg-ing{
+    padding: 0 6rem;
+    height: 400hv;
+    background-color: rgb(9, 97, 124,.2);
+    
+    /* background-image: linear-gradient(rgb(9, 97, 124,.2),
+    rgb(9, 97, 124,.2)),
+        url("../Image/example-29__0.png"); */
+        
+    background-position: top  ;
+    background-repeat: no-repeat;
+    clip-path: polygon(100% 0, 100% 91%, 68% 96%, 39% 97%, 0 86%, 0 0);}
+
+.put_div{
+    padding: 5rem 0 7rem;
+    color: rgb(27, 25, 25,.8);
+}
+
+.bg-ing_paragrap{
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 2.1rem;
+}
+
+.put_div a{ 
+    font-weight: 500;
+}
+
+.put_div-im{
+    padding-right: 2rem;
+}
+
+.put_div-img{
+    width: 100%;
+}
