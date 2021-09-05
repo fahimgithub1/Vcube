@@ -1,0 +1,103 @@
+@keyframes Hedding-animation{
+    0%{
+        transform: translatex(20rem);
+        opacity: 0;
+    }
+
+    80%{
+        transform: translatex(-3rem);
+    }
+
+    100%{
+        transform: translatex(0rem);
+        opacity: 1;
+    }
+}
+
+@keyframes Hedding-paragrap{
+    0%{
+        transform: translatex(-20rem);
+        opacity: 0;
+    }
+
+    80%{
+        transform: translatex(5rem);
+    }
+
+    100%{
+        transform: translatex(0rem);
+        opacity: 1;
+    }
+}
+
+@keyframes button-animation{
+    0%{
+        transform: translatey(10rem);
+        opacity: 0;
+    }
+
+    80%{
+        transform: translatey(-2rem);
+    }
+
+    100%{
+        transform: translatey(0rem);
+        opacity: 1;
+    }
+}
+
+@keyframes button_hover-animation{
+    0%{
+        transform: scale(1%);
+        /* opacity: 1; */
+    }
+    100%{
+        
+        opacity: .5;
+    }
+}
+
+
+@keyframes navigation-animation{
+    0%{
+        transform: translatey(-1.5rem);
+        /* background-color: rgb(178, 189, 34,0.8); */
+        /* opacity: 0; */
+    }
+
+    25%{
+        transform: translatey(1.5rem);
+        /* background-color: rgb(178, 189, 34,0.6); */
+    }
+
+    50%{
+        transform: translatey(-1rem);
+        /* background-color: rgb(178, 189, 34,0.5); */
+    }
+
+    50%{
+        transform: translatey(1rem);
+        /* background-color: rgb(178, 189, 34,0.4); */
+    }
+
+    100%{
+        transform: translatey(0rem);
+        
+        /* opacity: 1; */
+    }
+}
+
+@keyframes logo-animation{
+    0%{
+        width:  0;
+    }
+    100%{
+        
+        width: 20%;
+    }
+}
+
+@keyframes imag-animation{
+    
+}
+
