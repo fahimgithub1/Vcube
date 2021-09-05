@@ -1,0 +1,81 @@
+.section-service{
+    top: -2rem;
+    width: 97%;
+    margin: 0 1rem;
+    text-align: center;
+    padding: 4rem 2rem 7rem 2rem;
+    margin-bottom: 5rem;
+    margin-top: 10rem;
+    transform: skewY(-5deg);
+    background-color: rgb(38, 57, 139,.8);
+}
+.roted{
+    transform: skewY(5deg);
+
+}
+
+.hedline{
+    margin-bottom: 4rem;
+
+}
+
+.service-paragrap{
+    width: 53%;
+    margin: auto;
+    animation:Hedding-paragrap 3s;
+}
+
+.service-pading{
+    margin: auto;
+    transition: 1s;
+}
+
+.service-pading:hover{
+    transform: scale(1.1);
+}
+ 
+.service-conternar{
+    border-radius: 10px;
+    padding-top: 3rem;
+    padding-bottom: 2.5rem;
+    margin-bottom: 2rem;
+    background-color: wheat;
+    box-shadow: 1px 2px 2px 5px rgb(32, 32, 32,.2);
+}
+
+.service-conternar:hover{
+    border: 3px solid rgb(216, 212, 6);
+    box-shadow: none;
+
+}
+
+.services-img{
+    background-color: cadetblue;
+    height: 100px;
+    width: 30%;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom:  3rem;
+}
+
+.services-img img{
+    width: 100%;
+}
+
+.service-paragrap2{
+    font-size: 18px;
+    color: #000;
+}
+
+.service-btn1{
+    color: rgb(197, 162, 7);
+    margin-bottom: 4rem;
+    list-style: none;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.service-btn1:hover{
+    text-decoration: none;
+    color: black;
+}

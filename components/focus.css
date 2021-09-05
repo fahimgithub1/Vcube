@@ -1,0 +1,55 @@
+.section_focus{
+    margin-top: 10rem;
+    width: 100%;
+    padding: 2rem 6rem;
+}
+
+.focus-text{
+    padding-left: 4rem;
+}
+
+.fpcus-heading{
+    font-size: 50px;
+    /* font-weight: 800; */
+}
+
+
+
+.focus-paragap{
+    margin-bottom: 2rem;
+    animation: Hedding-paragrap 3s;
+}
+
+.focus-img{
+    width: 100%;
+    position: relative;
+    transition: all 1s;
+}
+
+
+.focus-ing0_p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: wheat;
+    font-family: 2rem;
+    text-transform: uppercase;
+    transform: translate(-50%, 15%);
+    text-align: center;
+    opacity: 0;
+    transition: all 1s;
+}
+
+
+.text-biger:hover .focus-ing0_p{
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    opacity: 1;
+    transform: translate(-50%, -50%);
+}
+
+.focus-img:hover{
+    transform: scale(.9);
+    filter:  blur(2px) brightness(65%);
+}
