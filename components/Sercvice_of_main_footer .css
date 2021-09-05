@@ -1,0 +1,40 @@
+.navbar2{
+    margin: 0 0  3.4rem 0rem;
+    padding: 1rem 4rem;
+
+}
+
+.learnmore_writen-section{
+    padding: 1rem 4rem;
+
+}
+
+.learnmore-headding{
+    font-weight: 200;
+    font-size: 40px;
+    line-height: 1.4em;
+    margin-bottom: 4rem;
+    
+}
+
+.learmore-property{
+    margin: 0 0 0 17.5rem ;
+}
+
+.learmore-property h5{
+    margin: 0 0 2.2rem 0;
+}
+
+.learmore-property p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin: 0 0 2.2rem 0;
+    font-size: 18.3px;
+}
+
+.lm-span{
+    font-weight: 600;
+}
