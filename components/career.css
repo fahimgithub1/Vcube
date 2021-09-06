@@ -18,6 +18,8 @@ body,html{
     padding-top: 1.50rem;
     background: transparent;
     background-color: rgba(236, 226, 226, 0.4);
+    
+   color: black;
     /* background-image: url(../Image/slider.jpg); */
 }
 
