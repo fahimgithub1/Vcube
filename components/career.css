@@ -77,7 +77,8 @@ body,html{
     text-align: center;
     color: wheat;
     width: 60%;
-    height: 70vh;
+    height: 80vh;
+    overflow: hidden;
     margin: auto;
     background-color: rgb(14, 13, 13,0.5);
     border-radius: 5px ;
