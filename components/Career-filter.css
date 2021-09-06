@@ -1,0 +1,104 @@
+.filter_join-section{
+    padding: 5rem;
+    color: black;
+    font-size: 16px;
+}
+
+.filter-div{
+    padding: 5rem;
+
+}
+
+.filter-hedding{
+    color: cadetblue;
+    font-size: 16px;
+    margin-bottom: 1rem;
+}
+
+.Type{
+    border: 1px solid black;
+    border-radius: 5px ;
+    scroll-behavior: smooth;
+    padding: 1.5rem;
+}
+
+.filter_level input{
+    height: 15px;
+    width: 50%;
+}
+
+label{
+    width: 15%;
+}
+
+input:hover{
+    border: 1.5px solid blue;
+}
+
+.join_div{
+    padding-left: 5rem;
+}
+
+.join_primhead{
+    color: cadetblue;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.join_secondhead{
+    color: rgb(18, 72, 75);
+    font-size: 21px;
+    font-weight: 400;
+    margin-bottom: 1rem;
+}
+
+.join_tirhead{
+    color: cadetblue;
+    font-size: 18px;
+    font-weight: 500;
+    /* margin-bottom: 1rem; */
+}
+
+.nimidiv{
+    position: relative;
+}
+
+.search_img{
+    width: 80%;
+    position: absolute;
+    left: 10rem;
+    top: 2px;
+}
+
+.what_where-div input{
+    height: 40px;
+}
+
+.butn{
+    padding-top: 2.5rem;
+}
+
+.what_where-div a{
+    text-decoration: none;
+    padding: .6rem 2.5rem;
+    border-radius: 10px;
+    color: rgb(253, 252, 250);
+    background-color: rgb(95, 158, 160,.7);
+    font-size: 18px;
+}
+
+.what_where-div a:hover{
+    text-decoration: none;
+    color: rgb(253, 252, 250);
+    background-color: rgb(95, 158, 160,.9);
+    
+}
+
+.known{
+    margin-top: 4rem;
+    border: 1px solid rgb(253, 252, 249);
+}
+
+.known:hover{
+    background-color: rgb(236, 230, 220,.4);
+}
