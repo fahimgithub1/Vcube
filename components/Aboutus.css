@@ -1,0 +1,134 @@
+
+/* .nevber-btabd{
+    position: relative;
+} */
+
+header{
+    background-image: url(../Image/slider.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+body,html{ 
+    background: transparent;
+}
+
+.navbar{
+    padding-top: 1.50rem;
+    background: transparent;
+    background-color: rgba(236, 226, 226, 0.4);
+    /* background-image: url(../Image/slider.jpg); */
+}
+
+
+.logo-div{
+    width: 20%;
+    /* position: absolute; */
+}
+
+.logo-div img{
+    width: 100%;
+    /* position: absolute; */
+}
+
+.all-items{
+    float: left;
+    font-weight: 500;
+    font-size: 0.9375rem;
+
+    
+    display: block;
+    padding: 16px 25px;
+    color: #fff !important;
+}
+
+
+.all-items ul li a{
+    display: block;
+    padding: 16px 25px;
+    color: #fff !important;
+}
+
+.fac-div{
+    margin-top: 0;
+    padding: auto;
+    right: 2px;
+    position: relative;
+
+}
+
+.fac-logo{
+    top: -.5rem;
+    width: 200%;
+    align-items: center;
+    position: absolute;
+}
+
+.bacground_image-2{
+    top: -10rem;
+    height: 35rem;
+    padding: 7rem;
+}
+
+.back{
+    /* padding: 8rem; */
+    align-items: center;
+    text-align: center;
+    color: wheat;
+    width: 60%;
+    margin: auto;
+    background-color: rgb(14, 13, 13,0.5);
+    border-radius: 5px ;
+    box-shadow: 2px 2px 2.5px 10px rgb(248, 233, 210,.4);
+}
+
+.back h4{
+    font-weight: 400;
+    margin-bottom: 1.5rem;
+}
+
+.back h1{
+    font-size: 48px;
+    margin-bottom: 1.2rem;
+    font-weight: 400;
+}
+
+.back p{
+    font-size: 16px;
+}
+
+.paragaerp-div{
+    width: 85%;
+    margin: auto;
+    margin-bottom: 2.3rem;
+}
+
+.button-bt{
+    background-color: rgb(134, 202, 207);
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(231, 223, 223);
+    font-weight: 500;
+}
+
+.button-bt:hover{
+    background-color: rgb(93, 165, 170);
+    text-decoration: none;
+    color: rgb(231, 223, 223);
+}
+
+.lastsection1{
+    font-size: 11px;
+    text-align: center;
+    font-weight: 500;
+    padding: 1rem 0;
+    background-color: rgb(175, 170, 170,.3);
+}
+
+.lastsection1 span{
+    font-size: 16px;
+    font-weight: 700;
+}
