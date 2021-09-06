@@ -70,7 +70,7 @@ body,html{
 .bacground_image-2{
     top: -10rem;
     padding: 7rem;
-    height: 100vh;
+/*     height: 100vh; */
 }
 
 .back{
@@ -79,7 +79,7 @@ body,html{
     text-align: center;
     color: wheat;
     width: 60%;
-    height: 80vh;
+/*     height: 80vh; */
     overflow: hidden;
     margin: auto;
     background-color: rgb(14, 13, 13,0.5);
